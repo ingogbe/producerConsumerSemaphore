@@ -1,4 +1,4 @@
-package produceConsumerSemaphore;
+package bo;
 
 import java.util.LinkedList;
 import java.util.concurrent.Semaphore;

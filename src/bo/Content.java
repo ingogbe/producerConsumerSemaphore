@@ -1,4 +1,4 @@
-package produceConsumerSemaphore;
+package bo;
 
 public class Content {
 	private int value;

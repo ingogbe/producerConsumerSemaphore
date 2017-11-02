@@ -1,7 +1,11 @@
-package produceConsumerSemaphore;
+package view;
 
 import java.util.LinkedList;
 import java.util.concurrent.Semaphore;
+
+import bo.Consumer;
+import bo.Content;
+import bo.Producer;
 
 public class Main {
 
